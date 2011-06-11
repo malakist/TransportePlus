@@ -1,0 +1,9 @@
+C:\projects\TransportesPlus\POCs\POC_Testaveis\Tests\bin\Debug\Tests.dll
+C:\projects\TransportesPlus\POCs\POC_Testaveis\Tests\bin\Debug\Tests.pdb
+C:\projects\TransportesPlus\POCs\POC_Testaveis\Tests\bin\Debug\Entities.dll
+C:\projects\TransportesPlus\POCs\POC_Testaveis\Tests\bin\Debug\nunit.framework.dll
+C:\projects\TransportesPlus\POCs\POC_Testaveis\Tests\bin\Debug\nunit.framework.xml
+C:\projects\TransportesPlus\POCs\POC_Testaveis\Tests\bin\Debug\Entities.pdb
+C:\projects\TransportesPlus\POCs\POC_Testaveis\Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\TransportesPlus\POCs\POC_Testaveis\Tests\obj\Debug\Tests.dll
+C:\projects\TransportesPlus\POCs\POC_Testaveis\Tests\obj\Debug\Tests.pdb
